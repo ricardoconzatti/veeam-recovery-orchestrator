@@ -1,7 +1,7 @@
 ###########################################################################################
 # Create a vCenter Datacenter using REST API - Veeam Recovery Orchestrator Script Test
 #
-# Created by: Ricardo Conzatti (ricardo.conzatti@veeam.com)
+# Created by: Ricardo Conzatti
 # Created: 30/09/2025
 # Version: 0.1
 ###########################################################################################
